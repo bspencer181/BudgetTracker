@@ -13,6 +13,7 @@ npm i
 ```  
 # Usage  
 Easily track your budget by visiting the link provided below.  
+[Budget Tracker](https://immense-peak-62527.herokuapp.com/)  
 # Technology Used  
 - JS ES6
 - Mongoose
